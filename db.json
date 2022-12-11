@@ -29,6 +29,80 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
+    },
+    {
+      "id": "519f2df8-296f-488e-b07c-b63ff5ca26b1",
+      "category": "animal welfare",
+      "title": "Jad",
+      "description": "JAD",
+      "location": "St ",
+      "date": "Sep23",
+      "time": "Sep 23",
+      "organizer": "Adam Jahr"
+    },
+    {
+      "id": "a0c2ab82-42d9-4744-ad25-604e68e372f0",
+      "category": "nature",
+      "title": "ds",
+      "description": "ds",
+      "location": "",
+      "date": "",
+      "time": "",
+      "organizer": "Adam Jahr"
+    },
+    {
+      "id": "0d526e4c-d2ff-4a3b-84ff-311eccd08d94",
+      "category": "nature",
+      "title": "asda",
+      "description": "asda",
+      "location": "asd",
+      "date": "",
+      "time": "",
+      "organizer": "Adam Jahr"
+    },
+    {
+      "id": "bc24a9d6-7794-4e17-9f35-fb0fc0e76567",
+      "category": "housing",
+      "title": "adadasd",
+      "description": "asdasd",
+      "location": "asdasd",
+      "date": "",
+      "time": "",
+      "organizer": "Adam Jahr"
+    },
+    {
+      "id": "d69a178a-eca9-460a-85f9-9bdb2545f070",
+      "category": "",
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "organizer": "Adam Jahr"
+    },
+    {
+      "id": "e2baf7dd-6cb7-4adb-b814-8e4397fc816b",
+      "category": "",
+      "title": "asdad",
+      "description": "asdad",
+      "location": "asdasd",
+      "date": "asdad",
+      "time": "asd",
+      "organizer": "Adam Jahr"
+    },
+    {
+      "id": "d97a7542-6d7c-40c3-b300-94610275813c",
+      "category": "",
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "organizer": "Adam Jahr",
+      "extras": {
+        "catering": true,
+        "music": true
+      }
     }
   ]
 }
